@@ -14,7 +14,7 @@
 
 ## 下载和使用
 
-在 [v1.1.0 发布页](https://github.com/caihaodong44chd-gif/reze-codex-pet-download/releases/tag/v1.1.0) 下载 `reze-codex-pet-v1.1.0.zip`。也可以在仓库页面选择 **Code → Download ZIP** 获取最新仓库文件。
+在 [v1.1.0 发布页](https://github.com/chd44/reze-codex-pet-download/releases/tag/v1.1.0) 下载 `reze-codex-pet-v1.1.0.zip`。也可以在仓库页面选择 **Code → Download ZIP** 获取最新仓库文件。
 
 解压后，将 `pet.json` 和 `spritesheet.webp` 放在同一个 Codex 宠物目录中，再在宠物选择器中选用「蕾塞 Reze」。更新已有版本前，请先备份原来的两个文件；更新时替换这两个文件即可。若仍显示旧动作，可重启应用后再试。
 
@@ -32,7 +32,7 @@
 | 制作版本 | 特点 | 公开下载 |
 | --- | --- | --- |
 | 初版 | 悬停动作是跳跃 | 未在本仓库发布 |
-| v1.0.0 拿花修订版 | 悬停时站定拿花、微笑和眨眼 | [v1.0.0 发布页](https://github.com/caihaodong44chd-gif/reze-codex-pet-download/releases/tag/v1.0.0) |
+| v1.0.0 拿花修订版 | 悬停时站定拿花、微笑和眨眼 | [v1.0.0 发布页](https://github.com/chd44/reze-codex-pet-download/releases/tag/v1.0.0) |
 | v1.1.0 拔环变身版 | 新增思考时拔环变身与弹指动作，保留拿花悬停 | 当前版本 |
 
 这些版本的 `spriteVersionNumber` 都是 2；这个数字指 Codex 宠物文件格式，不代表发布版本号。
@@ -45,4 +45,4 @@
 
 ## 反馈
 
-用了觉得怎么样，或者遇到问题，欢迎[提个 issue](https://github.com/caihaodong44chd-gif/reze-codex-pet-download/issues/new?template=feedback.yml)。
+用了觉得怎么样，或者遇到问题，欢迎[提个 issue](https://github.com/chd44/reze-codex-pet-download/issues/new?template=feedback.yml)。
